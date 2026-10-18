@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahadHassan.PulseSend.Api", "src\FahadHassan.PulseSend.Api\FahadHassan.PulseSend.Api.csproj", "{9C9D5A40-47B4-4B4B-A1E1-4CC27C04E17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahadHassan.PulseSend.Tests", "tests\FahadHassan.PulseSend.Tests\FahadHassan.PulseSend.Tests.csproj", "{B1F75D5B-2D12-4C9B-90F9-6A64BB4DF98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9D5A40-47B4-4B4B-A1E1-4CC27C04E17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9D5A40-47B4-4B4B-A1E1-4CC27C04E17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9D5A40-47B4-4B4B-A1E1-4CC27C04E17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9D5A40-47B4-4B4B-A1E1-4CC27C04E17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F75D5B-2D12-4C9B-90F9-6A64BB4DF98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F75D5B-2D12-4C9B-90F9-6A64BB4DF98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F75D5B-2D12-4C9B-90F9-6A64BB4DF98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F75D5B-2D12-4C9B-90F9-6A64BB4DF98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
